@@ -31,9 +31,9 @@ Atualmente sou estudante do curso téc. em Informática, voltado ao Desenvolvime
 ## Estatísticas
 <div>
   
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Gabriel-Modesto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=gabriel-modesto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Modesto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-modesto&layout=compact&langs_count=7&theme=dracula"/>
 <br>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-modesto&theme=omni&theme=dracula" alt="stats"/>
 </div>
