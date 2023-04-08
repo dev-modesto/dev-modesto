@@ -6,7 +6,6 @@ Atualmente sou estudante do curso téc. em Informática, voltado ao Desenvolvime
 
 <br>
 
-
 ## Tecnologias
 
 <div style="display:flex"><br>
@@ -31,11 +30,11 @@ Atualmente sou estudante do curso téc. em Informática, voltado ao Desenvolvime
 ## Estatísticas
 <div>
   
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielModesto-o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielModesto-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielModesto-o&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielModesto-O&layout=compact&langs_count=7&theme=dracula"/>
 <br>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielModesto-o&theme=omni&theme=dracula" alt="stats"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielModesto-O&theme=omni&theme=dracula" alt="stats"/>
 </div>
 
 
