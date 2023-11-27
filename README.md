@@ -1,41 +1,69 @@
 
-## <h1 align="center"> Hello World!! 🌏<br> Me chamo Gabriel Modesto!</h1>
-Atualmente sou estudante do curso téc. em Informática, voltado ao Desenvolvimento Web na instituição de ensino Senac ao qual busco a cada dia me desenvolver mais e mais na área de Front-End.
+<h1> Hello, World!! 🌏<br> Me chamo Gabriel Modesto!</h1>
+<br/>
 
-Atualmente, estou me dedicando e aprimorando meus conhecimentos em `CSS`, `JAVASCRIPT`, `PHP` e `MySQL`. No entanto, também estou estudando outras tecnologias e linguagens durante minhas aulas, como `JAVA`.
-<br>
+Fascinado por criar `interfaces agradáveis` e `intuitivas`, um de meus principais `objetivos` também é a `otimização de processos`, a fim de oferecer ao usuário final uma melhor experiência.
 
-## Tecnologias
+Visando a `excelência`, busco superar sempre às expectativas das partes interessadas, estando em `constante aprendizado`, aperfeiçoando `técnicas` e sempre buscando me atualizar com as últimas `tendências em tecnologias` voltadas ao desenvolvimento `front-end`, e as quais também possam agregar em meus objetivos e a fins.
 
-<div style="display:flex"><br>
+<br/>
 
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JAVASCRIPT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+- 🧠 Desenvolvedor Front-end em formação
+- 📚 Estudante - Técnico em Informática (Desenvolvimento Web) no Senac RJ
+- 🎓 Estudante - Análise e Desenvolvimento de Sistemas na Faculdade Digital Descomplica
+<br/>
+
+##
+<h3> Tecnologias que estou em aprendizado contínuo</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://skillicons.dev)
   
-  
-  
-</div>
-<br>
-<br>
+<br/>
 
-## Entre em contato
+<h3> Tecnologias que já tive contato</h3>
 
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio)](https://skillicons.dev)
+
+##
+<br/>
+<h3> Formação Acadêmica</h3>
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/rwbd9nTT/senac-logo.png"/>](https://postimg.cc/KKxPTxY8)
+**Téc. em Informática (Desenvolvimento web)** \
+[**Senac RJ**](https://www.rj.senac.br/) \
+Ago 2022 - Jan 2024
+
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVDkrMzn/descomplica-logo.png"/>](https://postimg.cc/nMBq3XQh)
+**Análise e Desenvolvimento de Sistemas** \
+[**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) \
+jan 2024 - jun 2026
+
+<br/>
+<br/>
+
+##
+
+<h3>Entre em contato comigo</h3>
 <a href="https://www.linkedin.com/in/gabrielm-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:gabriel_26@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<br>
-<br>
+<a href="mailto:gabriel_26@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
 
+<br/>
+<br/>
 
-## Estatísticas
+##
+<h3>Estatísticas</h3>
 <div>
   
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielModesto-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<br>
+<br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielModesto-O&layout=compact&langs_count=7&theme=dracula"/>
-<br>
+<br/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielModesto-O&theme=omni&theme=dracula" alt="stats"/>
 </div>
 
