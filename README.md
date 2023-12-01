@@ -8,6 +8,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 
 <br/>
 
+- 🎈 Sou do Rio de Janeiro, RJ.
 - 🧠 Desenvolvedor Front-end em formação
 - 📚 Estudante - Técnico em Informática (Desenvolvimento Web) no Senac RJ
 - 🎓 Estudante - Análise e Desenvolvimento de Sistemas na Faculdade Digital Descomplica
@@ -22,10 +23,21 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 
 <h3> Tecnologias que já tive contato</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://skillicons.dev)
+
+
+<br/>
+
+<h3> Minhas Ferramentas</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)](https://skillicons.dev)
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+
+<br/>
 
 ##
-<br/>
+
 <h3> Formação Acadêmica</h3>
 <br/>
 <br/>
@@ -33,8 +45,13 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/rwbd9nTT/senac-logo.png"/>](https://postimg.cc/KKxPTxY8)
 **Téc. em Informática (Desenvolvimento web)** \
 [**Senac RJ**](https://www.rj.senac.br/) \
-Ago 2022 - Jan 2024
+Ago 2022 - Jan 2024 (cursando)
 
+<br/>
+
+Linguagens e Tecnologias: `HTML5`, `CSS3`, `Bootstrap`, `JavaScript`, `SQL`, `MySQL`, `PHP`, `JAVA`, `Angular`, `Node.js`, `Ionic`, `WordPress`.
+
+Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS Project`, `Trello`, `Figma`, `Canva`.
 
 <br/>
 <br/>
