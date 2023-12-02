@@ -9,9 +9,11 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 <br/>
 
 - 🎈 Sou do Rio de Janeiro, RJ.
-- 🧠 Desenvolvedor Front-end em formação
-- 📚 Estudante - Técnico em Informática (Desenvolvimento Web) no Senac RJ
-- 🎓 Estudante - Análise e Desenvolvimento de Sistemas na Faculdade Digital Descomplica
+- 🧠 Desenvolvedor **Front-end** em formação
+- 📚 Estudante - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
+- 🎓 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
+
+- 🚀 Elevando minhas habilidades em: **SQL** na [**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) e **Front-end** na [**Origamid**](https://www.origamid.com/)
 <br/>
 
 ##
