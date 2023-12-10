@@ -19,20 +19,20 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 ##
 <h3> Tecnologias que estou em aprendizado contínuo</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)]()
   
 <br/>
 
 <h3> Tecnologias que já tive contato</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)]()
 
 
 <br/>
 
 <h3> Minhas Ferramentas</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)]()
 <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
 <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
 
@@ -44,7 +44,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/rwbd9nTT/senac-logo.png"/>](https://postimg.cc/KKxPTxY8)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/rwbd9nTT/senac-logo.png"/>](https://www.rj.senac.br/)
 **Téc. em Informática (Desenvolvimento web)** \
 [**Senac RJ**](https://www.rj.senac.br/) \
 Ago 2022 - Jan 2024 (cursando)
@@ -58,7 +58,7 @@ Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS P
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVDkrMzn/descomplica-logo.png"/>](https://postimg.cc/nMBq3XQh)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVDkrMzn/descomplica-logo.png"/>](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) 
 **Análise e Desenvolvimento de Sistemas** \
 [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) \
 jan 2024 - jun 2026
