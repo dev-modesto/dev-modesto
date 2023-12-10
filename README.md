@@ -19,22 +19,22 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 ##
 <h3> Tecnologias que estou em aprendizado contínuo</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)]()
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://github.com/GabrielModesto-O)
   
 <br/>
 
 <h3> Tecnologias que já tive contato</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)]()
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://github.com/GabrielModesto-O)
 
 
 <br/>
 
 <h3> Minhas Ferramentas</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)]()
-<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)](https://github.com/GabrielModesto-O)
+[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">](https://github.com/GabrielModesto-O)
+[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">](https://github.com/GabrielModesto-O)
 
 <br/>
 
@@ -78,7 +78,6 @@ jan 2024 - jun 2026
 ##
 <h3>Estatísticas</h3>
 <div>
-  
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielModesto-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielModesto-O&layout=compact&langs_count=7&theme=dracula"/>
