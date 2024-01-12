@@ -9,7 +9,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 <br/>
 
 - 🎈 Sou do Rio de Janeiro, RJ.
-- 🧠 Desenvolvedor **Front-end** em formação
+- 🧠 Desenvolvedor **Full-Stack** em formação
 - 📚 Estudante - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
 - 🎓 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
 
@@ -23,7 +23,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
   
 <br/>
 
-<h3> Tecnologias que já tive contato</h3>
+<h3> Tecnologias/ferramentas que já tive contato</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://github.com/GabrielModesto-O)
 
@@ -32,7 +32,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 
 <h3> Minhas Ferramentas</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma)](https://github.com/GabrielModesto-O)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://github.com/GabrielModesto-O)
 [<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">](https://github.com/GabrielModesto-O)
 [<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">](https://github.com/GabrielModesto-O)
 
