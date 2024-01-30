@@ -10,8 +10,8 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 
 - 🎈 Sou do Rio de Janeiro, RJ.
 - 🧠 Desenvolvedor **Full-Stack** em formação
-- 📚 Estudante - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
-- 🎓 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
+- 🎓 Formado - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
+- 📚 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
 
 - 🚀 Elevando minhas habilidades em: **SQL** na [**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) e **Front-end** na [**Origamid**](https://www.origamid.com/)
 <br/>
@@ -47,7 +47,7 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/rwbd9nTT/senac-logo.png"/>](https://www.rj.senac.br/)
 **Téc. em Informática (Desenvolvimento web)** \
 [**Senac RJ**](https://www.rj.senac.br/) \
-Ago 2022 - Jan 2024 (cursando)
+Ago 2022 - Jan 2024
 
 <br/>
 
@@ -61,7 +61,7 @@ Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS P
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVDkrMzn/descomplica-logo.png"/>](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) 
 **Análise e Desenvolvimento de Sistemas** \
 [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) \
-jan 2024 - jun 2026
+jan 2024 - jun 2026 (cursando)
 
 <br/>
 <br/>
