@@ -19,22 +19,22 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 ##
 <h3> Tecnologias que estou em aprendizado contínuo</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://github.com/GabrielModesto-O)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://github.com/dev-modesto)
   
 <br/>
 
 <h3> Tecnologias/ferramentas que já tive contato</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://github.com/GabrielModesto-O)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://github.com/dev-modesto)
 
 
 <br/>
 
 <h3> Minhas Ferramentas</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://github.com/GabrielModesto-O)
-[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">](https://github.com/GabrielModesto-O)
-[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">](https://github.com/GabrielModesto-O)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://github.com/dev-modesto)
+[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">](https://github.com/dev-modesto)
+[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">](https://github.com/dev-modesto)
 
 <br/>
 
@@ -78,11 +78,11 @@ jan 2024 - jun 2026 (cursando)
 ##
 <h3>Estatísticas</h3>
 <div>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielModesto-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=dev-modesto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielModesto-O&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-modesto&layout=compact&langs_count=7&theme=dracula"/>
 <br/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielModesto-O&theme=omni&theme=dracula" alt="stats"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-modesto&theme=omni&theme=dracula" alt="stats"/>
 </div>
 
 
