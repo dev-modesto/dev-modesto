@@ -2,30 +2,29 @@
 <h1> Hello, World!! 🌏<br> Me chamo Gabriel Modesto!</h1>
 <br/>
 
-Fascinado por criar `interfaces agradáveis` e `intuitivas`, um de meus principais `objetivos` também é a `otimização de processos`, a fim de oferecer ao usuário final uma melhor experiência.
+Sou fascinado por desenvolver interfaces web e, desenvolvedor Web, atuante em ambas as vertentes de desenvolvimento, meu foco principal está voltado ao `Front-end`, onde meu objetivo é o desenvolvimento de `interfaces funcionais`, `seguras`, `otimizadas` e, é claro, `agradáveis`. 
 
-Visando a `excelência`, busco superar sempre às expectativas das partes interessadas, estando em `constante aprendizado`, aperfeiçoando `técnicas` e sempre buscando me atualizar com as últimas `tendências em tecnologias` voltadas ao desenvolvimento `front-end`, e as quais também possam agregar em meus objetivos e a fins.
+Viso a `excelência`, buscando superar sempre às expectativas das partes interessadas, estando em constante aprendizado e aperfeiçoando técnicas a fim de oferecer ao usuário final uma `melhor experiência`.
 
 <br/>
 
 - 🎈 Sou do Rio de Janeiro, RJ.
-- 🧠 Desenvolvedor **Full-Stack** em formação
 - 🎓 Formado - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
 - 📚 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
-
+- 🧠 **Desenvolvedor Web** em constante aprendizado
 - 🚀 Elevando minhas habilidades em: **SQL** na [**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) e **Front-end** na [**Origamid**](https://www.origamid.com/)
 <br/>
 
 ##
 <h3> Tecnologias que estou em aprendizado contínuo</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,mysql,figma,sass)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,mysql,react,nodejs,html,css)](https://github.com/dev-modesto)
   
 <br/>
 
 <h3> Tecnologias/ferramentas que já tive contato</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,androidstudio,wordpress)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,bootstrap,androidstudio,wordpress)](https://github.com/dev-modesto)
 
 
 <br/>
@@ -33,8 +32,6 @@ Visando a `excelência`, busco superar sempre às expectativas das partes intere
 <h3> Minhas Ferramentas</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://github.com/dev-modesto)
-[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">](https://github.com/dev-modesto)
-[<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">](https://github.com/dev-modesto)
 
 <br/>
 
