@@ -2,7 +2,7 @@
 <h1> Hello, World!! 🌏<br> Me chamo Gabriel Modesto!</h1>
 <br/>
 
-Sou fascinado por desenvolver interfaces web e, desenvolvedor Web, atuante em ambas as vertentes de desenvolvimento, meu foco principal está voltado ao `Front-end`, onde meu objetivo é o desenvolvimento de `interfaces funcionais`, `seguras`, `otimizadas` e, é claro, `agradáveis`. 
+Sou fascinado por desenvolver interfaces web e, como desenvolvedor Web, atuante em ambas as vertentes de desenvolvimento, meu foco principal está voltado ao `Front-end`, onde meu objetivo é o desenvolvimento de `interfaces funcionais`, `seguras`, `otimizadas` e, é claro, `agradáveis`. 
 
 Viso a `excelência`, buscando superar sempre às expectativas das partes interessadas, estando em constante aprendizado e aperfeiçoando técnicas a fim de oferecer ao usuário final uma `melhor experiência`.
 
