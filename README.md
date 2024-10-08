@@ -1,5 +1,5 @@
+<h1> Hello, World!! 🌏<br> Me chamo Gabriel Modesto! 👋</h1> 
 
-<h1> Hello, World!! 🌏<br> Me chamo Gabriel Modesto!</h1>
 <br/>
 
 Sou fascinado por desenvolver interfaces web e, como desenvolvedor Web, atuante em ambas as vertentes de desenvolvimento, meu foco principal está voltado ao `Front-end`, onde meu objetivo é o desenvolvimento de `interfaces funcionais`, `seguras`, `otimizadas` e, é claro, `agradáveis`. 
@@ -9,6 +9,7 @@ Viso a `excelência`, buscando superar sempre às expectativas das partes intere
 <br/>
 
 - 🎈 Sou do Rio de Janeiro, RJ.
+- 💼 Estagiário em **Desenvolvimento Web Full-Stack** na [**Agile Corp**](https://www.agilecorp.com.br)
 - 🎓 Formado - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
 - 📚 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
 - 🧠 **Desenvolvedor Web** em constante aprendizado
@@ -16,28 +17,42 @@ Viso a `excelência`, buscando superar sempre às expectativas das partes intere
 <br/>
 
 ##
-<h3> Tecnologias que estou em aprendizado contínuo</h3>
+<h3> Minhas Tecnologias principais </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,mysql,react,nodejs,html,css)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=php,mysql,js,jquery,html,css,bootstrap)](https://github.com/dev-modesto)
+  
+<br/>
+
+<h3> Minhas Ferramentas</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode,figma)](https://github.com/dev-modesto)
+
+<br/>
+
+<h3> Tecnologias em aprendizado</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs)](https://github.com/dev-modesto)
   
 <br/>
 
 <h3> Tecnologias/ferramentas que já tive contato</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,react,bootstrap,androidstudio,wordpress)](https://github.com/dev-modesto)
-
-
-<br/>
-
-<h3> Minhas Ferramentas</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,androidstudio,wordpress)](https://github.com/dev-modesto)
 
 <br/>
 
 ##
 
 <h3> Formação Acadêmica</h3>
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVDkrMzn/descomplica-logo.png"/>](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) 
+**Análise e Desenvolvimento de Sistemas** \
+[**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) \
+jan 2024 - jun 2026 (cursando)
+
+<br/>
 <br/>
 <br/>
 
@@ -51,14 +66,6 @@ Ago 2022 - Jan 2024
 Linguagens e Tecnologias: `HTML5`, `CSS3`, `Bootstrap`, `JavaScript`, `SQL`, `MySQL`, `PHP`, `JAVA`, `Angular`, `Node.js`, `Ionic`, `WordPress`.
 
 Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS Project`, `Trello`, `Figma`, `Canva`.
-
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVDkrMzn/descomplica-logo.png"/>](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) 
-**Análise e Desenvolvimento de Sistemas** \
-[**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) \
-jan 2024 - jun 2026 (cursando)
 
 <br/>
 <br/>
