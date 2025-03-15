@@ -19,7 +19,7 @@ Viso a `excelência`, buscando superar sempre às expectativas das partes intere
 ##
 <h3> Minhas Tecnologias principais </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=php,mysql,js,jquery,html,css,bootstrap)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=php,mysql,js,jquery,html,css,bootstrap,tailwindcss)](https://github.com/dev-modesto)
   
 <br/>
 
@@ -86,7 +86,8 @@ Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS P
 <br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-modesto&layout=compact&langs_count=7&theme=tokyonight"/>
 <br/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-modesto&theme=omni&theme=tokyonight" alt="stats"/>
+  
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=dev-modesto&theme=tokyonight-duo" alt="stats"/>
 </div>
 
 
