@@ -86,8 +86,7 @@ Ferramentas: `GitHub`, `Visual Studio Code`, `Apache NetBeans`, `StarUML`, `MS P
 <br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-modesto&layout=compact&langs_count=7&theme=tokyonight"/>
 <br/>
-  
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=dev-modesto&theme=tokyonight-duo" alt="stats"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-modesto&theme=omni&theme=tokyonight" alt="stats"/>
 </div>
 
 
