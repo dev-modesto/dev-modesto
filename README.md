@@ -9,7 +9,7 @@ Viso a `excelência`, buscando superar sempre às expectativas das partes intere
 <br/>
 
 - 🎈 Sou do Rio de Janeiro, RJ.
-- 💼  **Desenvolvimento Web** na [**RD Exclusive**](https://www.rdexclusive.com.br)
+- 💼  **Desenvolvedor Web** na [**RD Exclusive**](https://www.rdexclusive.com.br)
 - 🎓 Formado - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
 - 📚 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
 - 🧠 **Desenvolvedor Web** em constante aprendizado
