@@ -2,36 +2,36 @@
 
 <br/>
 
-Sou fascinado por desenvolver interfaces web e, como desenvolvedor Web, atuante em ambas as vertentes de desenvolvimento, meu foco principal está voltado ao `Front-end`, onde meu objetivo é o desenvolvimento de `interfaces funcionais`, `seguras`, `otimizadas` e, é claro, `agradáveis`. 
+Desenvolvedor apaixonado por tecnologia e por construir sistemas web eficientes de ponta a ponta. Atuo como Desenvolvedor **Full-Stack**, com foco principal no ecossistema **PHP** e **Vue.js**.
 
-Viso a `excelência`, buscando superar sempre às expectativas das partes interessadas, estando em constante aprendizado e aperfeiçoando técnicas a fim de oferecer ao usuário final uma `melhor experiência`.
+Meu objetivo não é apenas escrever código, mas desenvolver `soluções escaláveis`, `seguras` e com `alto desempenho`. Para isso, aplico conceitos de **Arquitetura de Software** e **princípios SOLID** na criação de APIs RESTful robustas e interfaces de usuário dinâmicas
 
 <br/>
 
 - 🎈 Sou do Rio de Janeiro, RJ.
-- 💼  **Desenvolvedor Web** na [**...**]()
 - 🎓 Formado - **Téc. em Informática (Desenvolvimento web)** no [**Senac RJ**](https://www.rj.senac.br/)
 - 📚 Estudante - **Análise e Desenvolvimento de Sistemas** na Faculdade Digital [**Descomplica**](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/)
-- 🧠 **Desenvolvedor Web** em constante aprendizado
-- 🚀 Elevando minhas habilidades em: **SQL** na [**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) e **Front-end** na [**Origamid**](https://www.origamid.com/)
+- 💻 Foco em arquitetar o backend com PHP estruturado e criar experiências fluidas no frontend com Vue.js/JavaScript.
+- 🧠 Atualmente aprofundando conhecimentos em **Padrões de Projeto (Design Patterns)** e infraestrutura.
+- 🚀 Elevando minhas habilidades na comunidade da [**Hashtag Treinamentos**](https://www.hashtagtreinamentos.com/) e [**Origamid**](https://www.origamid.com/)
 <br/>
 
 ##
 <h3> Minhas Tecnologias principais </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=php,mysql,js,jquery,html,css,bootstrap,tailwindcss)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=php,vuejs,mysql,js,tailwindcss)](https://github.com/dev-modesto)
   
 <br/>
 
 <h3> Minhas Ferramentas</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode,figma)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=postman,rabbitmq,redis,git,github,vscode,figma)](https://github.com/dev-modesto)
 
 <br/>
 
 <h3> Tecnologias em aprendizado</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs)](https://github.com/dev-modesto)
+  [![My Skills](https://skillicons.dev/icons?i=react,ts)](https://github.com/dev-modesto)
   
 <br/>
 
