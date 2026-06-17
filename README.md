@@ -29,18 +29,6 @@ Meu objetivo não é apenas escrever código, mas desenvolver `soluções escal�
 
 <br/>
 
-<h3> Tecnologias em aprendizado</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=react,ts)](https://github.com/dev-modesto)
-  
-<br/>
-
-<h3> Tecnologias/ferramentas que já tive contato</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=java,angular,androidstudio,wordpress)](https://github.com/dev-modesto)
-
-<br/>
-
 ##
 
 <h3> Formação Acadêmica</h3>
