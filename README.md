@@ -17,7 +17,7 @@
 <br><br>
 
 <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=24&pause=1000&color=E5F7F6&center=true&width=435&lines=FullStack+Developer;Engenharia+de+Software;Soluções+Escaláveis+%26+Seguras;PHP+%7C+Vue.js;APIs+RESTful" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&width=435&lines=Engenharia+de+Software;FullStack+Developer;PHP+%26+Vue.js;Solu%C3%A7%C3%B5es+Escal%C3%A1veis+%26+Seguras;APIs+RESTful" alt="Typing SVG" /></a>
 
 <br><br>
 
